@@ -73,7 +73,7 @@ Pair of images used to evaluate the trained and tested CNN model to observe to w
 <br>
 ### Input Image 1
 <p align="left">
-  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cat_or_dog_1.jpg?raw=true"
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat_or_dog_1.jpg?raw=true"
   width="300" height="200">
 
 </p>
@@ -81,7 +81,7 @@ Pair of images used to evaluate the trained and tested CNN model to observe to w
 
 ### Input Image 2
 <p>
-    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cat_or_dog_2.jpg?raw=true"
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat_or_dog_2.jpg?raw=true"
   width="300" height="200">
 </p>
 <br><br>
@@ -89,7 +89,7 @@ After compiling the model thye modelly accurately classifies the first picture t
 <br><br>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Prediction_Snapshot.png?raw=true"
-  width="800" height="600">
+  width="900" height="600">
 </p>
 
 
