@@ -36,7 +36,7 @@ This case study is based on CNN model and the <a href="https://github.com/TatevK
 - Pooling
 - Flattening
 <p>
-    <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/cnn_summary.png?raw=true"
+    <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/sources/cnn_summary.png?raw=true"
   width="700" height="270">
 </p>
 <br><br><br>
@@ -89,7 +89,7 @@ After compiling the model thye modelly accurately classifies the first picture t
 <br><br>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Prediction_Snapshot.png?raw=true"
-  width="900" height="600">
+  width="1100" height="600">
 </p>
 
 
