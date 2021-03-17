@@ -10,21 +10,21 @@ The process includes the following steps and is captured in this <a href ="https
 
 ## Image examples used to train the CNN
 <p>
-    <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/image_examples/dog.31.jpg?raw=true"
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/dog.31.jpg?raw=true"
   width="210" height="200">
-   <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/image_examples/cat.3.jpg?raw=true"
+   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cat.3.jpg?raw=true"
   width="210" height="200">
-  <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/image_examples/dog.24.jpg?raw=true"
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/dog.24.jpg?raw=true"
   width="210" height="200">   
-  <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/image_examples/cat.12.jpg?raw=true"
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cat.12.jpg?raw=true"
   width="210" height="200">    
-  <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/image_examples/cat.1.jpg?raw=true"
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cat.1.jpg?raw=true"
   width="210" height="200">
-  <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/image_examples/dog.4.jpg?raw=true"
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/dog.4.jpg?raw=true"
   width="210" height="200">    
-  <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/image_examples/cat.8.jpg?raw=true"
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cat.8.jpg?raw=true"
   width="210" height="200">
-  <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/image_examples/dog.45.jpg?raw=true"
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/dog.45.jpg?raw=true"
   width="210" height="200">  
 </p>
 <br><br>
