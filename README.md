@@ -36,7 +36,7 @@ This case study is based on CNN model and the <a href="https://github.com/TatevK
 - Pooling
 - Flattening
 <p>
-    <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/sources/cnn_summary.png?raw=true"
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cnn_summary.png?raw=true"
   width="700" height="270">
 </p>
 <br><br><br>
