@@ -50,17 +50,17 @@ Important evaluation steps, described in detail in <a href="https://github.com/T
 
 ## Deep Learning libraries: Tensorflow & Keras 
 <p>
-    <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Keras ImageDataGenerator Library.png?raw=true"
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library.png?raw=true"
   width="500" height="330">
 </p>
 <p>
-    <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Keras ImageDataGenerator Library2.png?raw=true"
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library2.png?raw=true"
   width="600" height="330">
 </p>
 <p>
-   <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Keras load_img function.png?raw=true"
+   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_img function.png?raw=true"
   width="600" height="90">
-   <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Keras load_to_array function.png?raw=true"
+   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_to_array function.png?raw=true"
   width="600" height="90">
 </p>
 <br>
@@ -73,7 +73,7 @@ Pair of images used to evaluate the trained and tested CNN model to observe to w
 <br>
 ### Input Image 1
 <p align="left">
-  <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/cat_or_dog_1.jpg?raw=true"
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cat_or_dog_1.jpg?raw=true"
   width="300" height="200">
 
 </p>
@@ -81,14 +81,14 @@ Pair of images used to evaluate the trained and tested CNN model to observe to w
 
 ### Input Image 2
 <p>
-    <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/cat_or_dog_2.jpg?raw=true"
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cat_or_dog_2.jpg?raw=true"
   width="300" height="200">
 </p>
 <br><br>
 After compiling the model thye modelly accurately classifies the first picture to a dog class and the second picture to a cat class. Following is a snapshot of a Python output.
 <br><br>
 <p>
-    <img src="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Prediction_Snapshot.png?raw=true"
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Prediction_Snapshot.png?raw=true"
   width="800" height="600">
 </p>
 
