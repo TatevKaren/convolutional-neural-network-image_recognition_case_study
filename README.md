@@ -36,7 +36,7 @@ This case study is based on CNN model and the <a href="https://github.com/TatevK
 - Flattening
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cnn_summary.png?raw=true"
-  width="700" height="270">
+  width="700" height="250">
 </p>
 <br><br><br>
 
