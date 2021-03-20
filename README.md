@@ -50,17 +50,17 @@ Important evaluation steps, described in detail in <a href="https://github.com/T
 ## Deep Learning libraries: Tensorflow & Keras 
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library.png?raw=true"
-  width="500" height="330">
+  width="500" height="350">
 </p>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library2.png?raw=true"
-  width="600" height="330">
+  width="600" height="340">
 </p>
 <p>
    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_img function.png?raw=true"
-  width="600" height="90">
+  width="600" height="80">
    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_to_array function.png?raw=true"
-  width="600" height="90">
+  width="600" height="80">
 </p>
 <br>
 Source: https://keras.io/api/preprocessing/image/#imagedatagenerator-class
