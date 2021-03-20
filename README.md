@@ -88,7 +88,7 @@ After compiling the model thye modelly accurately classifies the first picture t
 <br><br>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Prediction_Snapshot.png?raw=true"
-  width="1100" height="600">
+  width="1100" height="550">
 </p>
 
 
