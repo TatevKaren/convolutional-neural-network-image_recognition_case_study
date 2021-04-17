@@ -6,7 +6,7 @@
 
 <br>
 Image recognition model: Computer Vision case study to classify an image to a binary class. Image recognition model based on Convolutional Neural Network (CNN) to identify from an image whether it is dog or a cat image. In this case study we use 8000 images of dogs and cats to train and test a Convolutional Neural Network (CNN) model that takes an image as an input and give as an output a class of 0 (cat) or 1 (dog) suggesting whether it is a dog or a cat picture. This image recognition model is based on CNN. 
-<br>
+<br><br>
 
 **Supporting Files**
 
