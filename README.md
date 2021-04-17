@@ -9,6 +9,7 @@ Image recognition model: Computer Vision case study to classify an image to a bi
 <br><br>
 The process includes the following steps and captured in <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study.py" > Python Code</a> and <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>:
 <br>
+
  - Problem statement
  - Data overview
  - Data Preprocessing
