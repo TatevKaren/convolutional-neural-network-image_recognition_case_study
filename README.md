@@ -1,7 +1,7 @@
 # Image Recognition Case Study 
 <p>
     <img src="https://miro.medium.com/max/962/1*MBSM_G12XN105sEHsJ6C3A.png?raw=true"
-  width=800" height="400">
+  width=800" height="500">
 </p>  
 
 <br>
