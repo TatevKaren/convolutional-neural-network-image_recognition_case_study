@@ -1,4 +1,4 @@
-# Image Recognition Case Study 
+# Image Recognition Case Study With CNN's
 <p>
     <img src="https://miro.medium.com/max/962/1*MBSM_G12XN105sEHsJ6C3A.png?raw=true"
   width=800" height="500">
