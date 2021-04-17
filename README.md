@@ -12,8 +12,7 @@ Image recognition model: Computer Vision case study to classify an image to a bi
 
  - <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper (pdf)</a>
  - <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study.py" > Python Code here</a>
- -  <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/tree/main/data" > Sample Data here</a>
- -  
+ -  <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/tree/main/data" > Sample Data here</a>  
 <br>
 The process includes the following steps:
 <br>
